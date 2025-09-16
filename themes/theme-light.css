@@ -1,0 +1,79 @@
+/* @theme theme-light */
+
+@import 'default';
+
+section {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #222;
+  background: #fafafa;
+  padding: 60px;
+}
+
+h1, h2, h3 {
+  font-family: "Georgia", serif;
+  font-weight: 600;
+  color: #111;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-size: 2.4em;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.2em;
+}
+
+h2 {
+  font-size: 1.8em;
+  margin-top: 1em;
+}
+
+h3 {
+  font-size: 1.4em;
+  font-style: italic;
+  color: #444;
+}
+
+/* Accent color for highlights */
+em, strong {
+  color: #0044cc;
+}
+
+/* Lists */
+ul, ol {
+  font-size: 1.1em;
+  line-height: 1.6;
+  margin: 0.8em 0;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+/* Inline code */
+code {
+  background: #eee;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-family: "Courier New", monospace;
+  font-size: 0.95em;
+  color: #d63384;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid #0044cc;
+  margin: 1em 0;
+  padding-left: 1em;
+  color: #555;
+  font-style: italic;
+  background: #f5f7fa;
+}
+
+/* Footer */
+footer {
+  font-size: 0.8em;
+  color: #666;
+  position: absolute;
+  bottom: 20px;
+  left: 60px;
+}

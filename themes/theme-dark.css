@@ -1,0 +1,80 @@
+/* @theme theme-dark */
+
+@import 'default';
+
+section {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #f0f0f0;
+  background: #0e0e0e;
+  padding: 60px;
+}
+
+h1, h2, h3 {
+  font-family: "Georgia", serif;
+  font-weight: 600;
+  color: #ffffff;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-size: 2.4em;
+  border-bottom: 2px solid #333;
+  padding-bottom: 0.2em;
+}
+
+h2 {
+  font-size: 1.8em;
+  margin-top: 1em;
+  color: #ccccff;
+}
+
+h3 {
+  font-size: 1.4em;
+  font-style: italic;
+  color: #aaa;
+}
+
+/* Accent color for highlights */
+em, strong {
+  color: #66ccff;
+}
+
+/* Lists */
+ul, ol {
+  font-size: 1.1em;
+  line-height: 1.6;
+  margin: 0.8em 0;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+/* Inline code */
+code {
+  background: #1a1a1a;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-family: "Courier New", monospace;
+  font-size: 0.95em;
+  color: #ff99cc;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid #66ccff;
+  margin: 1em 0;
+  padding-left: 1em;
+  color: #ddd;
+  font-style: italic;
+  background: #1a1a1a;
+}
+
+/* Footer */
+footer {
+  font-size: 0.8em;
+  color: #999;
+  position: absolute;
+  bottom: 20px;
+  left: 60px;
+}

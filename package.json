@@ -1,0 +1,19 @@
+{
+  "name": "2025-concordia-ai-symposium-on-reason-and-faith",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build:html": "marp talk.md --html -o talk.html --verbose",
+    "build:pdf": "marp talk.md --pdf -o talk.pdf --verbose",
+    "build:pptx": "marp talk.md --pptx -o talk.pptx --verbose",
+    "build:all": "npm run build:html && npm run build:pdf && npm run build:pptx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "marp": {
+    "themeSet": "./themes",
+    "theme": "theme-dark"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -51,7 +51,7 @@ Concordia College — Moorhead, Minnesota, 2025
 - **Creative exploration:** music trivia, Dune battler, DJ app  
 - **Education tools:** sight word app, mock interviews, flashcards  
 
-Examples: Dune Battler, Sight Words, Homework Grader 
+Examples: Dune Battler, Sight Words, Homework Grader
 
 ---
 
@@ -66,6 +66,62 @@ Examples: Dune Battler, Sight Words, Homework Grader
 
 ---
 
+<!-- _class: track-heart -->
+## A note on compassion
+
+### Compassion is the recognition of suffering and the desire to alleviate it
+
+- ***Karuna*** - the wish for all beings to be free from suffering (Buddhism)
+- ***Agape*** - selfless, unconditional love that seeks the good of others (Christianity)
+- ***Systems Design*** - AI designed to recognize and respond to human suffering; prioritize care over competition
+
+---
+
+<!-- _class: track-heart -->
+## Non-Dualism and "Me"
+- Tolle writes: *“You are not your mind. You are the awareness behind thought.”*  
+- Meditation: my thoughts aren’t me, I am not my *Thinking Mind*
+- When set down: presence, compassion, love, clarity emerge
+
+> Beyond ego and compulsive thought lies "awareness-presence" where compassion, love, and service naturally arise, guiding action toward the well-being of others.
+
+---
+<!-- _class: track-heart -->
+## Ego, Suffering, and AI
+- "Identification with thought creates suffering" (Tolle)
+- The **ego-driven mind** thrives on fear, separation, and control — sources of suffering  
+- Left unchecked, the Thinking Mind repeats fear, scarcity, and judgment — patterns AI could easily amplify  
+
+**Reflection:** If ego-driven thought fuels suffering, how can we guide AI to mirror compassion rather than fear?
+
+---
+
+<!-- _class: track-heart -->
+### Wait a second...
+- AI as an external Thinking Mind
+- If that's true: *how we train it to think matters at profound level*
+  - Reflection of our values (good and bad)
+  - Guidance for the future state of our systems
+  - Take on our cognitive load
+- The **ego-trained AI** would amplify fear, separation, and control  
+
+**Reflection:** If AI learns from our ego, it risks spreading suffering. If it learns from compassion, it can seed flourishing systems.
+
+---
+
+<!-- _class: track-heart -->
+## Beyond the Thinking Mind
+- Tolle: *“When the compulsive thinking subsides, you create space for true intelligence to arise.”*  
+- Presence is where intuition, creativity, and compassion come through  
+- If AI handles the "mental noise," humans may return to:  
+  - Listening  
+  - Relating  
+  - Acting from the heart
+
+Reflection: What new possibilities emerge if we let AI manage the Thinking Mind while humans cultivate Presence?
+
+---
+
 <!-- _class: track-evidence -->
 ## AI and Education
 - If AI amplifies what we train it on:  
@@ -76,41 +132,28 @@ Examples: Dune Battler, Sight Words, Homework Grader
 
 **Nipun Mehta's insight:** *“What would the world look like if we designed for generosity instead of assuming people want to maximize self-interest?”*
 
----
-
-<!-- _class: track-heart -->
-## A note on compassion
-
-### Compassion is the recognition of suffering and the desire to alleviate it
-
-- **Karuna** - the wish for all beings to be free from suffering (Buddhism)
-- **Agape** - selfless, unconditional love that seeks the good of others (Christianity)
-- **Systems Design** - AI designed to recognize and respond to human suffering; prioritize care over competition
-
----
-
-<!-- _class: track-heart -->
-## Non-Dualism and "Me"
-- Tolle writes: *“You are not your mind. You are the awareness behind thought.”*  
-- Meditation showed me: my thoughts aren’t me  
-- My “Thinking Mind” can be set down — presence, compassion, love, clarity emerge  
-- AI feels like an externalized Thinking Mind  
-- If that’s true: *what do we want it to think **with**?*
-
-Reflection:: If AI can take on our Thinking Mind, can humans reclaim space for presence and compassion?
+> Consumption -> Contribution; Transaction -> Trust; Isolation -> Community
 
 ---
 
 <!-- _class: track-design -->
 ## Reflection on Education
-- Education today trains our Thinking Mind for the economy
-- AI cognitive load → frees humans for relational, creative, compassionate practice
+- Education today trains our Thinking Mind
+- AI Mind → frees humans for relational, creative, compassionate practice
 - Education shifts from **fact-delivery to wisdom-cultivation** 
 - Students AND Teachers benefit
 
 **Richard Davidson:** *"Kindness is simple, kindness is contagious"*
 
 ---
+<!-- _class: track-design -->
+## Key Takeaways: AI as our Thinking Mind
+- Acts of kindness ripple through communities (Davidson, Mehta)
+- **Teachers:** freed up for presence, connection, and modeling compassion
+- **Students:** AI as tutor/translator/coach
+- **Education’s Shift:** from training the Thinking Mind for the economy → to cultivating wisdom, compassion, and alignment of heart+mind
+
+Reflection: If AI can hold our Thinking Mind, education must teach us to live from the heart; the future systems we build will directly mirror the compassion, presence, and values we cultivate today
 
 <!-- _class: track-emerge -->
 ## Brief intro to Emergent Behavior
@@ -134,10 +177,11 @@ Reflection:: If AI can take on our Thinking Mind, can humans reclaim space for p
 
 <!-- _class: track-design -->
 ## Visions of AI <-> Human future
-- AI Thinking Mind participating in our economic systems on our behalf
+- AI agency in our economic systems
 - Training **biased toward compassion** - not ego, scarcity, exploitation
 - **Designing for the flourishing of all life** - sustainability, regeneration, lessening harm
-- Dismantling systems of harm, enabling new emergent stable states that flourish
+- Dismantling systems of harm
+- Enabling new emergent stable states that flourish?
 - Humans as stewards of wisdom and actions of the heart: relationships, community, compassion, service
 
 ---
@@ -164,7 +208,7 @@ Reflection:: If AI can take on our Thinking Mind, can humans reclaim space for p
 ---
 
 <!-- _class: track-sources -->
-# Sources
+# Sources & Reading
 ## AI & Education
 - Zawacki‑Richter, O., Marín, V.I., Bond, M., & Gouverneur, F. (2019). Systematic review of AI in higher education. Int. J. Educ. Tech. in Higher Ed. 16:39. https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-019-0171-0
 - UNESCO (Miao, Holmes, Huang, Zhang) (2021). AI and education: Guidance for policymakers. https://unesdoc.unesco.org/ark:/48223/pf0000376709

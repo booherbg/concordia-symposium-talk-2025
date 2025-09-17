@@ -46,7 +46,7 @@ Concordia College — Moorhead, Minnesota, 2025
 ---
 
 <!-- _class: track-intro -->
-## Examples (Condensed)
+## Examples
 - **Personal productivity:** trip planner, packing list  
 - **Creative exploration:** music trivia, Dune battler, DJ app  
 - **Education tools:** sight word app, mock interviews, flashcards  
@@ -116,7 +116,8 @@ Reflection:: If AI can take on our Thinking Mind, can humans reclaim space for p
 ## Brief intro to Emergent Behavior
 
 - **Ant Colonies**  
-- **Birds & Fish**  
+- **Birds & Fish Organization**
+- **Human Systems: Global Scale**
 
 > *As John Holland wrote: “Complex adaptive systems exhibit emergence: coherent structures arise from the interactions of simple rules.”*
 

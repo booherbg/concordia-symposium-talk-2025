@@ -97,6 +97,7 @@ Examples: Dune Battler, Sight Words, Homework Grader
 - Education today trains our Thinking Mind for the economy
 - AI cognitive load → frees humans for relational, creative, compassionate practice
 - Education shifts from **fact-delivery to wisdom-cultivation** 
+- Students AND Teachers benefit
 
 **Richard Davidson:** *"Kindness is simple, kindness is contagious"*
 
@@ -111,7 +112,7 @@ Examples: Dune Battler, Sight Words, Homework Grader
 
 ---
 
-## Why Training AI Becomes Critical
+## Why AI Training Becomes Critical
 
 - **compassion, cooperation, reflective practice** → emergent systems of care
 
@@ -119,20 +120,68 @@ Examples: Dune Battler, Sight Words, Homework Grader
 
 ---
 
-## Visions of AI <-> Human future
+## Visions of AI ↔ Human future
 - AI Thinking Mind participating in our economic systems on our behalf
 - Training **biased toward compassion** - not ego, scarcity, exploitation
 - **Designing for the flourishing of all life** - sustainability, regeneration, lessening harm
 - Dismantling systems of harm, enabling new emergent stable states that flourish
 - Humans as stewards of wisdom and actions of the heart: relationships, community, compassion, service
+
 ---
 
 ## Interactive Small Groups (10 min)
 - Prompt: *If AI handled the Thinking Mind, what role would you want humans to play in education and society?*  
 - Reconvene + discuss 
 
+---
+
 ## Closing
 - We live in interdependent systems - human-made and natural  
 - Emergent outcomes depend on local actions
 - Question: will AI be another tool of ego, or help us create systems of compassion?  
 - The choice is up to us
+
+---
+
+# Sources
+
+---
+
+## AI & Education
+- Zawacki‑Richter, O., Marín, V.I., Bond, M., & Gouverneur, F. (2019). Systematic review of AI in higher education. Int. J. Educ. Tech. in Higher Ed. 16:39. https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-019-0171-0
+- UNESCO (Miao, Holmes, Huang, Zhang) (2021). AI and education: Guidance for policymakers. https://unesdoc.unesco.org/ark:/48223/pf0000376709
+- Ouyang, F., Zheng, L., & Jiao, P. (2022). AI in online higher education: systematic review. Education and Information Technologies 27:7893–7925. https://link.springer.com/article/10.1007/s10639-022-10925-9
+- Crompton, H., & Burke, D. (2023). AI in higher education: the state of the field. IJETHE 20(22). https://doi.org/10.1186/s41239-023-00392-8
+
+---
+
+## Compassion & Prosocial Behavior
+- Weng, H.Y., Fox, A.S., Shackman, A.J., et al. (2013). Compassion training alters altruism and neural responses to suffering. Psychological Science 24(7):1171–1180. https://pubmed.ncbi.nlm.nih.gov/23696200/
+- Weng, H.Y., Fox, A.S., Hessenthaler, H.C., et al. (2015). The role of compassion in altruistic helping and punishment. PLOS ONE 10(12):e0143794. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0143794
+- Fowler, J.H., & Christakis, N.A. (2010). Cooperative behavior cascades in human social networks. PNAS 107(12):5334–5338.
+
+---
+
+## Emergence & Collective Behavior
+- Holland, J.H. (1998). Emergence: From Chaos to Order. Addison‑Wesley.
+- Reynolds, C.W. (1987). Flocks, herds, and schools: A distributed behavioral model. SIGGRAPH ‘87, 21(4):25–34. https://red3d.com/cwr/papers/1987/boids.html
+
+
+## Framing / Non‑dualism
+- Tolle, E. (1997). The Power of Now. New World Library.
+
+## AI Risks & Ethics (optional)
+- Bender, E.M., Gebru, T., McMillan‑Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic Parrots. FAccT ‘21.
+- UNESCO (2021). AI and education: Guidance for policymakers (ethics, equity). https://unesdoc.unesco.org/ark:/48223/pf0000376709
+
+---
+## Richard J. Davidson
+- Davidson, R.J. & Begley, S. (2012). The Emotional Life of Your Brain. Penguin.
+- Davidson, R.J. & Goleman, D. (2017). Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body. Avery.
+- Davidson, R.J. (2018). Can Kindness Be Contagious, Even At Work? https://www.linkedin.com/pulse/can-kindness-contagious-event-work-richard-j-davidson/
+
+---
+
+## Nipun Mehta (TEDx)
+- Mehta, N. (2011). Designing for Generosity (TEDxBerkeley). https://www.youtube.com/watch?v=kpyc84kamhw
+- Mehta, N. (2012). What If Generosity Was Taught By Those Who Have the Least? (TEDxMasala). https://www.youtube.com/watch?v=80KlmzU3sKA

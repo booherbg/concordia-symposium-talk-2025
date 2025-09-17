@@ -1,0 +1,68 @@
+/* @theme talk-theme */
+
+@import 'default';
+
+/* Base type tweaks consistent with existing themes */
+section {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 60px;
+}
+
+h1, h2, h3 { font-family: "Georgia", serif; font-weight: 600; }
+h1 { font-size: 2.4em; margin-bottom: 0.6em; }
+h2 { font-size: 1.8em; margin-top: 1em; }
+h3 { font-size: 1.4em; font-style: italic; }
+
+/* Track palette */
+:root{
+  --track-intro:    #0f766e; /* teal */
+  --track-evidence: #2563eb; /* blue */
+  --track-design:   #059669; /* emerald */
+  --track-emerge:   #7c3aed; /* violet */
+  --track-heart:    #dc2626; /* rose/red */
+  --track-risk:     #b45309; /* amber */
+  --track-sources:  #334155; /* slate */
+
+  --bg-intro:    #ecfdf5; /* teal-50 */
+  --bg-evidence: #eff6ff; /* blue-50 */
+  --bg-design:   #f0fdf4; /* green-50 */
+  --bg-emerge:   #f5f3ff; /* violet-50 */
+  --bg-heart:    #fff1f2; /* rose-50 */
+  --bg-risk:     #fffbeb; /* amber-50 */
+  --bg-sources:  #f8fafc; /* slate-50 */
+}
+
+/* Left rail and backgrounds */
+section.track-intro{    border-left:6px solid var(--track-intro);    padding-left:18px; background-color: var(--bg-intro); }
+section.track-evidence{ border-left:6px solid var(--track-evidence); padding-left:18px; background-color: var(--bg-evidence); }
+section.track-design{   border-left:6px solid var(--track-design);   padding-left:18px; background-color: var(--bg-design); }
+section.track-emerge{   border-left:6px solid var(--track-emerge);   padding-left:18px; background-color: var(--bg-emerge); }
+section.track-heart{    border-left:6px solid var(--track-heart);    padding-left:18px; background-color: var(--bg-heart); }
+section.track-risk{     border-left:6px solid var(--track-risk);     padding-left:18px; background-color: var(--bg-risk); }
+section.track-sources{  border-left:6px solid var(--track-sources);  padding-left:18px; background-color: var(--bg-sources); }
+
+/* Colored headings per track */
+section.track-intro h1,  section.track-intro h2{  color:var(--track-intro); }
+section.track-evidence h1,section.track-evidence h2{color:var(--track-evidence); }
+section.track-design h1,  section.track-design h2{ color:var(--track-design); }
+section.track-emerge h1,  section.track-emerge h2{ color:var(--track-emerge); }
+section.track-heart h1,   section.track-heart h2{  color:var(--track-heart); }
+section.track-risk h1,    section.track-risk h2{   color:var(--track-risk); }
+section.track-sources h1, section.track-sources h2{color:#60a5fa; letter-spacing:0.2px; }
+section.track-sources h1{ font-size: 3em; }
+
+/* Quotes */
+section blockquote{ opacity: 1; }
+section.track-intro blockquote{    border-left:4px solid var(--track-intro); }
+section.track-evidence blockquote{ border-left:4px solid var(--track-evidence); }
+section.track-design blockquote{   border-left:4px solid var(--track-design); }
+section.track-emerge blockquote{   border-left:4px solid var(--track-emerge); }
+section.track-heart blockquote{    border-left:4px solid var(--track-heart); }
+section.track-risk blockquote{     border-left:4px solid var(--track-risk); }
+section.track-sources blockquote{  border-left:4px solid var(--track-sources); }
+
+/* Sources readability */
+section.track-sources{ font-size: 1.02em; line-height: 1.35; }
+section.track-sources ul{ margin-top: 8px; }
+section.track-sources li{ margin: 6px 0; }
+section.track-sources a{ color:#60a5fa; text-decoration: underline; } 

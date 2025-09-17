@@ -11,7 +11,7 @@
   },
   "marp": {
     "themeSet": "./themes",
-    "theme": "theme-dark"
+    "theme": "talk-theme"
   },
   "author": "",
   "license": "ISC",

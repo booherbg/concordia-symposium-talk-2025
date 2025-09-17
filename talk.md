@@ -2,11 +2,10 @@
 marp: true
 class: lead
 paginate: true
-style: |
-  section .tiles { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
-  section .tiles img { width: 100%; height: 140px; object-fit: cover; border-radius: 6px; }
+theme: talk-theme
 ---
 
+<!-- _class: track-intro -->
 # Emergent Compassion: Designing AI and Education for Systems that Flourish
 
 **Blaine Booher**  
@@ -15,6 +14,7 @@ Concordia College — Moorhead, Minnesota, 2025
 
 ---
 
+<!-- _class: track-intro -->
 ## About Me
 - Software Engineer (University of Cincinnati)
 - Educator in Workforce Development
@@ -24,6 +24,7 @@ Concordia College — Moorhead, Minnesota, 2025
 
 ---
 
+<!-- _class: track-intro -->
 ## About this talk
 - How I use AI as a lever of the mind
 - Reflections on AI + education
@@ -32,6 +33,7 @@ Concordia College — Moorhead, Minnesota, 2025
 
 ---
 
+<!-- _class: track-intro -->
 ## The Current View: How I Use AI
 - I tinker, iterate, find boundaries, jailbreak, dream together  
 - I use AI as a **thinking tool**:  
@@ -43,6 +45,7 @@ Concordia College — Moorhead, Minnesota, 2025
 
 ---
 
+<!-- _class: track-intro -->
 ## Examples (Condensed)
 - **Personal productivity:** trip planner, packing list  
 - **Creative exploration:** music trivia, Dune battler, DJ app  
@@ -52,6 +55,7 @@ Examples: Dune Battler, Sight Words, Homework Grader
 
 ---
 
+<!-- _class: track-intro -->
 ## What I’ve Noticed
 - AI feels like a reflection - of me, of us, our culture  
 - Sometimes dumb/dangerous, sometimes profound  
@@ -62,6 +66,7 @@ Examples: Dune Battler, Sight Words, Homework Grader
 
 ---
 
+<!-- _class: track-evidence -->
 ## AI and Education
 - If AI amplifies what we train it on:  
   - What happens if we train it on competition, ego, scarcity?
@@ -73,6 +78,7 @@ Examples: Dune Battler, Sight Words, Homework Grader
 
 ---
 
+<!-- _class: track-heart -->
 ## A note on compassion
 
 ### Compassion is the recognition of suffering and the desire to alleviate it
@@ -83,6 +89,7 @@ Examples: Dune Battler, Sight Words, Homework Grader
 
 ---
 
+<!-- _class: track-heart -->
 ## Non-Dualism and "Me"
 - Tolle writes: *“You are not your mind. You are the awareness behind thought.”*  
 - Meditation showed me: my thoughts aren’t me  
@@ -93,6 +100,7 @@ Examples: Dune Battler, Sight Words, Homework Grader
 
 ---
 
+<!-- _class: track-design -->
 ## Reflection on Education
 - Education today trains our Thinking Mind for the economy
 - AI cognitive load → frees humans for relational, creative, compassionate practice
@@ -103,6 +111,7 @@ Examples: Dune Battler, Sight Words, Homework Grader
 
 ---
 
+<!-- _class: track-emerge -->
 ## Brief intro to Emergent Behavior
 
 - **Ant Colonies**  
@@ -112,6 +121,7 @@ Examples: Dune Battler, Sight Words, Homework Grader
 
 ---
 
+<!-- _class: track-design -->
 ## Why AI Training Becomes Critical
 
 - **compassion, cooperation, reflective practice** → emergent systems of care
@@ -120,6 +130,7 @@ Examples: Dune Battler, Sight Words, Homework Grader
 
 ---
 
+<!-- _class: track-design -->
 ## Visions of AI ↔ Human future
 - AI Thinking Mind participating in our economic systems on our behalf
 - Training **biased toward compassion** - not ego, scarcity, exploitation
@@ -129,12 +140,14 @@ Examples: Dune Battler, Sight Words, Homework Grader
 
 ---
 
+<!-- _class: track-intro -->
 ## Interactive Small Groups (10 min)
 - Prompt: *If AI handled the Thinking Mind, what role would you want humans to play in education and society?*  
 - Reconvene + discuss 
 
 ---
 
+<!-- _class: track-intro -->
 ## Closing
 - We live in interdependent systems - human-made and natural  
 - Emergent outcomes depend on local actions
@@ -143,30 +156,35 @@ Examples: Dune Battler, Sight Words, Homework Grader
 
 ---
 
-# Sources
+<!-- _class: track-intro -->
+# Thank You!
 
 ---
 
+<!-- _class: track-sources -->
+# Sources
 ## AI & Education
 - Zawacki‑Richter, O., Marín, V.I., Bond, M., & Gouverneur, F. (2019). Systematic review of AI in higher education. Int. J. Educ. Tech. in Higher Ed. 16:39. https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-019-0171-0
 - UNESCO (Miao, Holmes, Huang, Zhang) (2021). AI and education: Guidance for policymakers. https://unesdoc.unesco.org/ark:/48223/pf0000376709
 - Ouyang, F., Zheng, L., & Jiao, P. (2022). AI in online higher education: systematic review. Education and Information Technologies 27:7893–7925. https://link.springer.com/article/10.1007/s10639-022-10925-9
 - Crompton, H., & Burke, D. (2023). AI in higher education: the state of the field. IJETHE 20(22). https://doi.org/10.1186/s41239-023-00392-8
 
----
 
+<!-- _class: track-sources -->
 ## Compassion & Prosocial Behavior
 - Weng, H.Y., Fox, A.S., Shackman, A.J., et al. (2013). Compassion training alters altruism and neural responses to suffering. Psychological Science 24(7):1171–1180. https://pubmed.ncbi.nlm.nih.gov/23696200/
 - Weng, H.Y., Fox, A.S., Hessenthaler, H.C., et al. (2015). The role of compassion in altruistic helping and punishment. PLOS ONE 10(12):e0143794. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0143794
 - Fowler, J.H., & Christakis, N.A. (2010). Cooperative behavior cascades in human social networks. PNAS 107(12):5334–5338.
 
----
 
+<!-- _class: track-sources -->
 ## Emergence & Collective Behavior
 - Holland, J.H. (1998). Emergence: From Chaos to Order. Addison‑Wesley.
 - Reynolds, C.W. (1987). Flocks, herds, and schools: A distributed behavioral model. SIGGRAPH ‘87, 21(4):25–34. https://red3d.com/cwr/papers/1987/boids.html
 
+---
 
+# Sources
 ## Framing / Non‑dualism
 - Tolle, E. (1997). The Power of Now. New World Library.
 
@@ -174,7 +192,8 @@ Examples: Dune Battler, Sight Words, Homework Grader
 - Bender, E.M., Gebru, T., McMillan‑Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic Parrots. FAccT ‘21.
 - UNESCO (2021). AI and education: Guidance for policymakers (ethics, equity). https://unesdoc.unesco.org/ark:/48223/pf0000376709
 
----
+
+<!-- _class: track-sources -->
 ## Richard J. Davidson
 - Davidson, R.J. & Begley, S. (2012). The Emotional Life of Your Brain. Penguin.
 - Davidson, R.J. & Goleman, D. (2017). Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body. Avery.
@@ -182,6 +201,7 @@ Examples: Dune Battler, Sight Words, Homework Grader
 
 ---
 
+<!-- _class: track-sources -->
 ## Nipun Mehta (TEDx)
 - Mehta, N. (2011). Designing for Generosity (TEDxBerkeley). https://www.youtube.com/watch?v=kpyc84kamhw
 - Mehta, N. (2012). What If Generosity Was Taught By Those Who Have the Least? (TEDxMasala). https://www.youtube.com/watch?v=80KlmzU3sKA

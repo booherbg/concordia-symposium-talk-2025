@@ -132,7 +132,17 @@ The Provocation (15 min) – Ask: if AI is just an amplifier of what we train it
 - We discussed consciousness, connectedness, kindness, service, artificial intelligence, and systemic thinking
 - Meditation, silence, quiet patience showed me it was possible to turn my Thinking Mind off
 - If this is possible, it means that I am not my Thinking Mind
-- While the go and thinking mind protect us from the world, Eckart Tolle tells us that Compassion, Love, and Empathy eminate from the seat of consciousness (Genuine Self) that lives behind the thoughts -->
+- While the go and thinking mind protect us from the world, Eckart Tolle tells us that Compassion, Love, and Empathy eminate from the seat of consciousness (Genuine Self) that lives behind the thoughts
+
+### Evidence from Human Learning
+
+- Neuroscientist **Richard Davidson** found that  
+  even **5 minutes of daily well-being practice**  
+  reduced teacher burnout and improved classroom climate.  
+
+- Kindness is **contagious**:  
+  what we practice as individuals shapes those around us.  
+-->
 
 --
 

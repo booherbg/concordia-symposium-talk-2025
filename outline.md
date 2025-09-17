@@ -94,6 +94,7 @@ The Provocation (15 min) – Ask: if AI is just an amplifier of what we train it
 - If AI amplifies what we train it on:  
   - What happens if we train it on competition, ego, scarcity?
   - What if instead we seed compassion, cooperation, systems-thinking?
+- **Nipun Mehta's framework**: Design AI for generosity, not self-interest
 - Especially critical for education (tutors, translators, assistants)
 - Bias compounds subtly; why not amplify *positive emergence*?
 
@@ -159,6 +160,8 @@ The Vision (10 min) – Paint a picture of AI as a “thinking partner” that t
 - Imagine AI in economic engines **biased toward compassion** - not ego, scarcity, exploitation  
 - Education shifts from **fact-delivery to wisdom-cultivation**  
 
+**Nipun Mehta's insight (TEDxFargo):** *"What would the world look like if we designed for generosity instead of assuming people want to maximize self-interest?"*
+
 --
 
 ## Interactive Small Groups (10 min)
@@ -184,8 +187,8 @@ Open Questions:
     - Should we talk about complex adaptive systems?
 
 Actions:
-    - Run this back through gpt5 for feedback, see how we can tighten this up
+    - x Run this back through gpt5 for feedback, see how we can tighten this up
     - Move this to google slides, but keep it simple
     - Review the original thesis, consider tying to a more rigid understanding of education, compassion, etc.
     - Review the teachings of the retreat, evaluate for buddhism
-    - Confirm non-dualism understandings
+    - x Confirm non-dualism understandings

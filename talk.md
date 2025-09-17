@@ -96,7 +96,8 @@ Examples: Dune Battler, Sight Words, Homework Grader
 - My “Thinking Mind” can be set down — presence, compassion, love, clarity emerge  
 - AI feels like an externalized Thinking Mind  
 - If that’s true: *what do we want it to think **with**?*
-- Question for reflection: if AI can take on our Thinking Mind, can humans reclaim space for presence and compassion?
+
+Reflection:: If AI can take on our Thinking Mind, can humans reclaim space for presence and compassion?
 
 ---
 
@@ -131,7 +132,7 @@ Examples: Dune Battler, Sight Words, Homework Grader
 ---
 
 <!-- _class: track-design -->
-## Visions of AI ↔ Human future
+## Visions of AI <-> Human future
 - AI Thinking Mind participating in our economic systems on our behalf
 - Training **biased toward compassion** - not ego, scarcity, exploitation
 - **Designing for the flourishing of all life** - sustainability, regeneration, lessening harm

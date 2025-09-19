@@ -14,6 +14,7 @@ Concordia College Symposium 2025
 ---
 
 ![bg left](https://picsum.photos/720?image=29)
+Hi there
 
 # Split backgrounds
 

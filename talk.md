@@ -76,6 +76,12 @@ Examples: Dune Battler, Sight Words, Homework Grader
 - ***Systems Design*** - AI designed to recognize and respond to human suffering; prioritize care over competition
 
 ---
+<!-- _class: track-heart -->
+![bg left](./images/monestary.png)
+
+Redwood Vihara Monestary, Santa Cruz Redwoods; September 2025
+
+---
 
 <!-- _class: track-heart -->
 ## Non-Dualism and "Me"
@@ -111,24 +117,17 @@ Examples: Dune Battler, Sight Words, Homework Grader
 
 <!-- _class: track-heart -->
 ## Beyond the Thinking Mind
-- Tolle: *“When the compulsive thinking subsides, you create space for true intelligence to arise.”*  
-- Presence is where intuition, creativity, and compassion come through  
-- If AI handles the "mental noise," humans may return to:  
-  - Listening  
-  - Relating  
-  - Acting from the heart
+> “Presence is when you are fully conscious of the Now, not lost in thought about past or future. It is the space in which true intelligence, creativity, and compassion arise.” — Eckhart Tolle
 
-Reflection: What new possibilities emerge if we let AI manage the Thinking Mind while humans cultivate Presence?
+### What new possibilities emerge if we let AI manage the Thinking Mind while humans cultivate Presence?
 
 ---
 
 <!-- _class: track-evidence -->
-## AI and Education
-- If AI amplifies what we train it on:  
-  - What happens if we train it on competition, ego, scarcity?
-  - What if instead we seed compassion, cooperation, systems-thinking?
-- Especially critical for education (tutors, translators, assistants)
+## Amplify Harm or Compound Compassion?
+- What if instead we seed AI with compassion, cooperation, systems-thinking?
 - Bias compounds subtly; why not amplify *positive emergence*?
+- Kindness and acts of compassion ripple through communities
 
 **Nipun Mehta's insight:** *“What would the world look like if we designed for generosity instead of assuming people want to maximize self-interest?”*
 
@@ -138,10 +137,10 @@ Reflection: What new possibilities emerge if we let AI manage the Thinking Mind 
 
 <!-- _class: track-design -->
 ## Reflection on Education
-- Education today trains our Thinking Mind
+- Education today trains our Thinking Mind for our economy
 - AI Mind → frees humans for relational, creative, compassionate practice
 - Education shifts from **fact-delivery to wisdom-cultivation** 
-- Students AND Teachers benefit
+- Everyone benefits: Teachers, Students, Community
 
 **Richard Davidson:** *"Kindness is simple, kindness is contagious"*
 
@@ -149,11 +148,16 @@ Reflection: What new possibilities emerge if we let AI manage the Thinking Mind 
 <!-- _class: track-design -->
 ## Key Takeaways: AI as our Thinking Mind
 - Acts of kindness ripple through communities (Davidson, Mehta)
+- We can train our systems to reflect compassion, not ego
 - **Teachers:** freed up for presence, connection, and modeling compassion
-- **Students:** AI as tutor/translator/coach
-- **Education’s Shift:** from training the Thinking Mind for the economy → to cultivating wisdom, compassion, and alignment of heart+mind
+- **Students:** direct beneficiaries of a new model
+- **Education’s Shift:** 
+  - Old: Training our Thinking Mind for labor market
+  - New: Cultivating wisdom, compassion, and alignment of heart+mind
 
 Reflection: If AI can hold our Thinking Mind, education must teach us to live from the heart; the future systems we build will directly mirror the compassion, presence, and values we cultivate today
+
+---
 
 <!-- _class: track-emerge -->
 ## Brief intro to Emergent Behavior
@@ -164,26 +168,26 @@ Reflection: If AI can hold our Thinking Mind, education must teach us to live fr
 
 > *As John Holland wrote: “Complex adaptive systems exhibit emergence: coherent structures arise from the interactions of simple rules.”*
 
+Reflection: What causes so many of our global systems to be so harmful?
+
 ---
 
-<!-- _class: track-design -->
-## Why AI Training Becomes Critical
+<!-- _class: track-emerge -->
+## A vision of the future: AI <-> Human cooperation
 
-- **compassion, cooperation, reflective practice** → emergent systems of care
-
+- It's Coming: AI agency in our global systems
 - **competition, ego, scarcity** → emergent harm: bias, inequity, competition
+- **compassion, cooperation, reflective practice** → emergent systems of care
+- **Bias training toward compassion** - not ego, scarcity, exploitation
+- **Designing for the flourishing of all life** - sustainability, regeneration, lessening harm
 
 ---
-
-<!-- _class: track-design -->
-## Visions of AI <-> Human future
-- AI agency in our economic systems
-- Training **biased toward compassion** - not ego, scarcity, exploitation
-- **Designing for the flourishing of all life** - sustainability, regeneration, lessening harm
-- Dismantling systems of harm
-- Enabling new emergent stable states that flourish?
+<!-- _class: track-emerge -->
+## Emergent Systems of Compassion
+- Can compassionate AI agents create new emergent behaviors?
+- Can we build systems that sustain, flourish, regenerate by default?
 - Humans as stewards of wisdom and actions of the heart: relationships, community, compassion, service
-
+- Unwind systems of harm, design new systems of heart
 ---
 
 <!-- _class: track-intro -->
@@ -222,15 +226,14 @@ Reflection: If AI can hold our Thinking Mind, education must teach us to live fr
 - Weng, H.Y., Fox, A.S., Hessenthaler, H.C., et al. (2015). The role of compassion in altruistic helping and punishment. PLOS ONE 10(12):e0143794. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0143794
 - Fowler, J.H., & Christakis, N.A. (2010). Cooperative behavior cascades in human social networks. PNAS 107(12):5334–5338.
 
+---
 
 <!-- _class: track-sources -->
+# Sources
 ## Emergence & Collective Behavior
 - Holland, J.H. (1998). Emergence: From Chaos to Order. Addison‑Wesley.
 - Reynolds, C.W. (1987). Flocks, herds, and schools: A distributed behavioral model. SIGGRAPH ‘87, 21(4):25–34. https://red3d.com/cwr/papers/1987/boids.html
 
----
-
-# Sources
 ## Framing / Non‑dualism
 - Tolle, E. (1997). The Power of Now. New World Library.
 
@@ -238,14 +241,13 @@ Reflection: If AI can hold our Thinking Mind, education must teach us to live fr
 - Bender, E.M., Gebru, T., McMillan‑Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic Parrots. FAccT ‘21.
 - UNESCO (2021). AI and education: Guidance for policymakers (ethics, equity). https://unesdoc.unesco.org/ark:/48223/pf0000376709
 
-
+---
+# Sources
 <!-- _class: track-sources -->
 ## Richard J. Davidson
 - Davidson, R.J. & Begley, S. (2012). The Emotional Life of Your Brain. Penguin.
 - Davidson, R.J. & Goleman, D. (2017). Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body. Avery.
 - Davidson, R.J. (2018). Can Kindness Be Contagious, Even At Work? https://www.linkedin.com/pulse/can-kindness-contagious-event-work-richard-j-davidson/
-
----
 
 <!-- _class: track-sources -->
 ## Nipun Mehta (TEDx)

@@ -4,10 +4,11 @@
   "main": "index.js",
   "scripts": {
     "build:html": "marp talk.md --html -o talk.html --verbose",
-    "build:pdf": "marp talk.md --pdf -o talk.pdf --verbose",
-    "build:pptx": "marp talk.md --pptx -o talk.pptx --verbose",
+    "build:pdf": "marp talk.md --pdf -o talk.pdf --allow-local-files --verbose",
+    "build:pptx": "marp talk.md --pptx -o talk.pptx --allow-local-files --verbose",
     "build:all": "npm run build:html && npm run build:pdf && npm run build:pptx",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "python3 -m http.server 8080"
   },
   "marp": {
     "themeSet": "./themes",

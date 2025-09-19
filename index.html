@@ -2,48 +2,235 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css" />
-    <script src="./scripts/axios.js" defer></script>
-    <script src="./scripts/client.js" defer></script>
-    <title>SQL TO-DO List</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Emergent Compassion — Concordia 2025</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet" />
+    <style>
+      :root {
+        --bg-start: #0f172a;
+        --bg-end: #1e293b;
+        --card: #0b1221cc;
+        --text: #e5e7eb;
+        --muted: #94a3b8;
+        --accent: #a78bfa;
+        --accent-2: #34d399;
+        --link: #60a5fa;
+        --shadow: 0 10px 30px rgba(0,0,0,0.35);
+        --radius: 16px;
+      }
+
+      @media (prefers-color-scheme: light) {
+        :root {
+          --bg-start: #f8fafc;
+          --bg-end: #eef2ff;
+          --card: #ffffffcc;
+          --text: #0f172a;
+          --muted: #475569;
+          --accent: #7c3aed;
+          --accent-2: #059669;
+          --link: #2563eb;
+          --shadow: 0 10px 25px rgba(2,6,23,0.08);
+        }
+      }
+
+      html, body {
+        height: 100%;
+      }
+
+      body {
+        margin: 0;
+        font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+        color: var(--text);
+        background: linear-gradient(135deg, var(--bg-start), var(--bg-end));
+        display: grid;
+        place-items: center;
+      }
+
+      .wrap {
+        width: min(980px, 92vw);
+        padding: 32px 0 56px;
+      }
+
+      header.hero {
+        position: relative;
+        border-radius: var(--radius);
+        padding: 42px 28px 28px;
+        background: var(--card);
+        box-shadow: var(--shadow);
+        overflow: hidden;
+      }
+
+      header.hero::after {
+        content: "";
+        position: absolute;
+        inset: -30% -10% auto auto;
+        width: 360px;
+        height: 360px;
+        background: radial-gradient(closest-side, color-mix(in oklab, var(--accent) 75%, transparent), transparent 70%);
+        transform: rotate(12deg);
+        filter: blur(6px);
+        opacity: 0.45;
+        pointer-events: none;
+      }
+
+      .kicker {
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--accent-2);
+        font-size: 0.82rem;
+        margin-bottom: 6px;
+      }
+
+      h1.title {
+        margin: 0 0 8px;
+        font-size: clamp(1.6rem, 2.6vw + 1rem, 2.6rem);
+        line-height: 1.15;
+        font-weight: 800;
+      }
+
+      p.sub {
+        margin: 0 0 18px;
+        color: var(--muted);
+        font-size: 1rem;
+      }
+
+      .meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px 18px;
+        margin-top: 10px;
+        color: var(--muted);
+        font-size: 0.95rem;
+      }
+
+      .actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-top: 20px;
+      }
+
+      a.btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        text-decoration: none;
+        color: white;
+        font-weight: 600;
+        letter-spacing: 0.02em;
+        padding: 12px 16px;
+        border-radius: 12px;
+        box-shadow: var(--shadow);
+        transition: transform 120ms ease, filter 120ms ease, opacity 120ms ease;
+        will-change: transform, filter;
+      }
+
+      a.btn:hover { transform: translateY(-1px); filter: brightness(1.05); }
+      a.btn:active { transform: translateY(0); filter: brightness(0.98); }
+
+      .btn-html { background: linear-gradient(135deg, #60a5fa, #3b82f6); }
+      .btn-pdf  { background: linear-gradient(135deg, #f97316, #ef4444); }
+      .btn-pptx { background: linear-gradient(135deg, #a78bfa, #8b5cf6); }
+
+      .thumb {
+        margin-top: 24px;
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 16px;
+      }
+
+      .thumb img {
+        width: 100%;
+        height: auto;
+        border-radius: 12px;
+        object-fit: cover;
+        box-shadow: var(--shadow);
+      }
+
+      section.more {
+        margin-top: 22px;
+        padding: 20px 0 0;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 14px;
+      }
+
+      .card {
+        background: var(--card);
+        border-radius: 14px;
+        padding: 16px;
+        box-shadow: var(--shadow);
+        min-height: 120px;
+      }
+
+      .card h3 {
+        margin: 0 0 6px;
+        font-size: 1.05rem;
+      }
+
+      footer {
+        margin-top: 22px;
+        text-align: center;
+        color: var(--muted);
+        font-size: 0.9rem;
+      }
+
+      .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+    </style>
   </head>
   <body>
-    <div class="container-fluid">
-      <header class="py-4">
-        <h1 class="text-center mb-0">SQL TO-DO List</h1>
+    <div class="wrap">
+      <header class="hero" role="banner">
+        <div class="kicker">Talk — Concordia College, 2025</div>
+        <h1 class="title">Emergent Compassion: Designing AI and Education for Systems that Flourish</h1>
+        <p class="sub">By Blaine Booher</p>
+        <div class="meta" aria-label="Talk details">
+          <span>Faith, Reason, and World Affairs Symposium</span>
+          <span>•</span>
+          <span>September 17 2025, Moorhead, Minnesota</span>
+        </div>
+        <div class="actions" aria-label="Downloads and links">
+          <a class="btn btn-html" href="./talk.html"><span>View as HTML</span></a>
+          <a class="btn btn-pdf" href="./talk.pdf" target="_blank" rel="noopener"><span>Download PDF</span></a>
+          <a class="btn btn-pptx" href="./talk.pptx" target="_blank" rel="noopener"><span>Download PPTX</span></a>
+        </div>
+        <div class="thumb">
+          <img src="./images/monestary.png" alt="Redwood Vihara Monastery among Santa Cruz redwoods" />
+        </div>
       </header>
-      <main>
-      <!-- HTML Form for adding a new task (`text` field only) (nunow) -->
-      <!-- text field will be called `task-text` -->
 
-      <div class="row justify-content-center">
-        <div class="col-md-8 col-lg-6">
-          <h2 class="mb-3">New Task</h2>
-          <form onsubmit="handleNewTaskForm(event)" class="mb-4">
-            <div class="input-group">
-              <input type="text" id="task-text" class="form-control" placeholder="to-do text" required />
-              <button type="submit" class="btn btn-primary">ADD TODO LIST</button>
-            </div>
-          </form>
+      <section class="more" aria-labelledby="more-heading">
+        <h2 id="more-heading" class="sr-only">More talks</h2>
+        <div class="grid">
+          <article class="card" aria-label="Contact">
+            <h3>Contact</h3>
+            <p style="margin:0 0 8px;color:var(--muted)">Find me and this work online:</p>
+            <p style="margin:0">
+              <a href="https://github.com/booherbg" style="color:var(--link); text-decoration:none">GitHub: @booherbg</a>
+              <span style="color:var(--muted)"> · </span>
+              <a href="https://github.com/booherbg/concordia-symposium-talk-2025" style="color:var(--link); text-decoration:none">Repository</a>
+              <span style="color:var(--muted)"> · </span>
+              <a href="mailto:bgbooher@gmail.com" style="color:var(--link); text-decoration:none">Email: bgbooher@gmail.com</a>
+            </p>
+          </article>
         </div>
-      </div>
+      </section>
 
-      <div class="row justify-content-center">
-        <div class="col-12">
-          <h2 class="mb-3">All Tasks</h2>
-          <!-- Cards container for tasks -->
-          <div id="tasks" class="row g-3">
-            <!-- Task cards will be dynamically added here -->
-          </div>
+      <footer>
+        <div>
+          <span>© 2025 Blaine Booher</span>
+          <span> · </span>
+          <a href="./talk.md" style="color:var(--link); text-decoration:none">Markdown source</a>
+          <span> · </span>
+          <a href="mailto:bgbooher@gmail.com" style="color:var(--link); text-decoration:none">Contact</a>
         </div>
-      </div>
-      </main>
+      </footer>
     </div>
-
-    <!-- Bootstrap JS -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
   </body>
 </html>
